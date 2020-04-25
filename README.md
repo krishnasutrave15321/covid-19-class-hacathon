@@ -1,4 +1,4 @@
-# covid-19-class-hacathon project
+# covid-19-class-hackathon project
 
 It is a team contributed task aiming to present a program showing the covid-19 data of countries affected by covid-19(Data is upto 21-April-2020)
 
